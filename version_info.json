@@ -1,0 +1,17 @@
+{
+    "version": "1.1.1",
+    "version_name": "Modern Edition",
+    "release_date": "2026-03-17",
+    "download_url": "https://github.com/fabianhartmann/minecraft-moddownloader/releases/latest/download/MinecraftModDownloader.exe",
+    "changelog": [
+        "🎨 Modernes Dark Mode Design implementiert",
+        "💙 Icons im Konfigurationsbereich in modernem Blau",
+        "🖥️ Fenstergröße für bessere Log-Sichtbarkeit vergrößert",
+        "👤 Automatische Benutzererkennung für Minecraft-Ordner",
+        "📜 Scrollbar für Log-Fenster hinzugefügt",
+        "🛡️ Antivirus-freundliche EXE-Builds",
+        "⚫ Dunkelgrauer Hintergrund statt reinem Schwarz"
+    ],
+    "required": false,
+    "update_type": "optional"
+}
